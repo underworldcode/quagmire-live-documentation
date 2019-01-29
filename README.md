@@ -8,6 +8,12 @@ Quagmire is structured into three major classes that inherit methods and attribu
 
 The Surface Processes class inherits from the Topography class, which in turn inherits from TriMesh or PixMesh depending on the type of mesh.
 
+## Demonstration
+
+Running on mybinder.org
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworldcode/quagmire-live-documentation.git/master)
+
 ## Installation
 
 Numpy and a fortran compiler, preferably [gfortran](https://gcc.gnu.org/wiki/GFortran), are required to install Quagmire.
