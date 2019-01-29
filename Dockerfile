@@ -4,7 +4,7 @@
 # for details
 
 # SHA tagging would be better
-FROM lmoresi/quagmire:0.3.1
+FROM lmoresi/quagmire:0.3.2
 
 ENV NB_USER jovyan
 ENV NB_UID 1000
