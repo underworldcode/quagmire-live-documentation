@@ -1,7 +1,5 @@
 # Quagmire
 
-
-
 Quagmire is a Python surface process framework for building erosion and deposition models on highly parallel, decomposed structured and unstructured meshes.
 
 Quagmire is structured into three major classes that inherit methods and attributes from lower tiers.
